@@ -1,10 +1,10 @@
-site_name: TRaSH Guides
+site_name: TRaSH Guides (Dev)
 site_description: Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
 site_author: TRaSH
-site_url: https://trash-guides.info/
+site_url: https://dev-trash-guides.seiyagame.fr/
 
-repo_url: https://github.com/TRaSH-/Guides
-repo_name: TRaSH-/Guides
+repo_url: https://github.com/SeiyaGame/Guides
+repo_name: TRaSH-/Guides (Develop)
 
 copyright: Copyright &copy; 2022 TRaSH
 
